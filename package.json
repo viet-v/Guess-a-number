@@ -1,0 +1,8 @@
+{
+  "name": "js-lesson06-guess-number",
+  "version": "1.0.0",
+  "description": "Guess the number between 1-25",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
